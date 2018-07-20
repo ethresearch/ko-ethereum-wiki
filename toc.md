@@ -1,7 +1,6 @@
 <!-- TITLE: TOC -->
 
 
-
 # ようこそ Ethereum wiki へ
 
 このページは ÐΞV (Ethereum Core Developer Team) によって開発された 次世代型 P2P 技術基盤 についての情報を集約した wiki であり、
@@ -11,21 +10,6 @@
 * **Whisper** : イーサリアムによる private low-level datagram コミュニケーション基盤
 
 どなたでも GitHub にサインインすることで [ブラウザ](https://help.github.com/articles/editing-wiki-pages-via-the-online-interface) や [ローカル環境](https://help.github.com/articles/adding-and-editing-wiki-pages-locally) で記事を追加できます。
-
-## 日本語翻訳リンク
-
-* [[Japanese] Ethereum White Paper](%5BJapanese%5D-White-Paper)
-* [[Japanese] Ethereum Development Tutorial](%5BJapanese%5D--Ethereum-Development-Tutorial)
-* [[Japanese] Ethereum Wire Protocol](%5BJapanese%5D-Ethereum-Wire-Protocol)
-* [[Japanese] ÐΞVp2p Wire Protocol](%5BJapanese%5D-ÐΞVp2p-Wire-Protocol)
-* [[Japanese] libp2p whitepaper](%5BJapanese%5D-libp2p-whitepaper)
-* [[Japanese] Patricia Tree](%5BJapanese%5D-Patricia-Tree)
-* [[Japanese] RLP](%5BJapanese%5D-RLP)
-* [[Japanese] Javascript API](%5BJapanese%5D-Javascript-API)
-* [[Japanese] License](%5BJapanese%5D--Liscence)
-* [[Japanese] Whisper](%5BJapanese%5D-Whisper)
-* [[Japanese] Whisper PoC2 Protocol](%5BJapanese%5D-Whisper-PoC-2-Protocol-Spec)
-* [[Japanese] Design Rationale](%5BJapanese%5D-Design-Rationale)
 
 
 ## 進行状況 
