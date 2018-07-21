@@ -2,6 +2,8 @@
 <!-- SUBTITLE: A quick summary of Home -->
 
 
+Other versions: [English](https://en.ethereum.wiki) and [Chinese](https://zh.ethereum.wiki).
+
 # ようこそ Ethereum wiki へ
 
 このページは ÐΞV (Ethereum Core Developer Team) によって開発された 次世代型 P2P 技術基盤 についての情報を集約した wiki であり、
