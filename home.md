@@ -30,7 +30,7 @@ Serenity のリリースは、コンセンサス (合意形成) プロトコ�
 Ethereum の基本概念の理解としましては [ Whitepaper (日本語版) ](%5BJapanese%5D-White-Paper) や [ Design Rational (日本語版) ](https://github.com/ethereum/wiki/wiki/%5BJapanese%5D-Design-Rationale) もしくは論文 [Yellow Paper (英語版) ](http://gavwood.com/Paper.pdf) をご覧ください。またエンジニアの方は [ Ethereum Development Tutorial (日本語版) ](https://github.com/ethereum/wiki/wiki/%5BJapanese%5D--Ethereum-Development-Tutorial) をご覧ください。
 
 ## 仕様
-- [Glossary](Glossary) と [FAQ](https://github.com/ethereum/wiki/wiki/FAQ) は必ずご覧になってください。  
+- [Glossary](Glossary) と [FAQ](https://github.com/ethereum/wiki/wiki/FAQs) は必ずご覧になってください。  
 - [C++言語](https://github.com/ethereum/webthree-umbrella/wiki) と [Go言語](https://github.com/ethereum/go-ethereum/wiki) による実装についての wiki です。 ( Python と Javascript 言語につきましてはもうしばらくお待ちください)
 
 ## ダウンロード
