@@ -31,7 +31,7 @@ Ethereum の基本概念の理解としましては [ Whitepaper (日本語版) 
 
 ## 仕様
 - [Glossary](Glossary) と [FAQ](https://github.com/ethereum/wiki/wiki/FAQs) は必ずご覧になってください。  
-- [C++言語](https://github.com/ethereum/webthree-umbrella/wiki) と [Go言語](https://github.com/ethereum/go-ethereum/wiki) による実装についての wiki です。 ( Python と Javascript 言語につきましてはもうしばらくお待ちください)
+- [C++言語](https://github.com/ethereum/webthree-umbrella/wiki) と [Go言語](https://github.com/ethereum/go-ethereum/wiki) による実装についての wiki です。 ( Python と Javascript 言語につきましてはもうしばらくお待ちください)
 
 ## ダウンロード
 開発中の ソースコード は以下の git レポジトリの branch からダウンロードできます:
